@@ -1,0 +1,147 @@
+.body {
+  background-color: #b7d1eacc;
+  width: 100%;
+}
+.head {
+  background-color: #1159a657;
+}
+.oneiconpn{
+
+}
+
+.ic-one {
+  width: 12%;
+  margin: 6% 2.5%;
+}
+
+.text-head {
+  margin-top: 1.8%;
+  font-size: 1.1rem;
+}
+
+.p-line {
+  background-color: #FFFFFF;
+  width: 100%;
+  height: 1%;
+  border-top: 1px #838383 solid;
+  margin-bottom: 1%;
+}
+
+.main-back {
+  background-image: url(background-vb.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 666px;
+  margin-bottom: 1%;
+  border: 1px black solid;
+  border-radius: 12px;
+  margin-left: 1%;
+  margin-right: 2%;
+  width: 98%;
+  background-position: center;
+}
+
+.img-main {
+
+}
+
+.top-m-text {
+  font-size: 3.6rem;
+  text-align: center;
+  padding-top: 10%;
+}
+
+.bottom-m-text {
+  font-size: 1.6rem;
+  text-align: center;
+  padding-top: 1%;
+  color: #FFFFFF;
+}
+
+.block-card {
+  width: 33%;
+  height: 440px;
+  background-color: #1159a657;
+  border: 2px #838383 solid;
+  border-radius: 12px;
+  margin-left: 4%;
+}
+
+.img-card {
+  width: 70%;
+  height: 30%;
+  border: 1px #838383 solid;
+  margin-top: 5%;
+  border-radius: 12px;
+  margin-left: 15%;
+  margin-bottom: 5%;
+}
+
+.up-title {
+  font-size: 2.2rem;
+  font-weight: 600;
+  margin-left: 7%;
+  margin-top: 2%;
+  margin-bottom: 2%;
+}
+
+.down-title {
+  font-size: 2.2rem;
+  font-weight: 600;
+  margin-left: 0%;
+  margin-top: 10%;
+  margin-bottom: 2%;
+}
+
+.trop-card {
+  padding-left: 5%;
+  margin-bottom: 1%;
+}
+
+.up-text {
+  font-size: 1.0rem;
+  margin-bottom: 2%;
+  font-weight: 600;
+}
+
+.down-text {
+  font-size: 0.8rem;
+  font-weight: 600;
+}
+
+.card-flag {
+  width: 100%;
+  height: 270px;
+  background-color: #1159a657;
+  margin-top: 2%;
+  margin-bottom: 2%;
+  border: 1px #838383 solid;
+  border-radius: 8px;
+  padding-left: 2%;
+  padding-right:2%;
+  margin-left: 30px;
+  margin-right: 0%;
+}
+
+.flag-icon {
+  width: 6%;
+  height: 20%;
+  margin-top: 1%;
+}
+
+.country-text {
+  margin-top: 2.2%;
+  font-size: 1.2rem;
+  font-weight: 600;
+}
+
+.cdown-text {
+  margin-top: -2%;
+  font-size: 1.1rem;
+  font-weight: 400;
+}
+
+.footer-clo {
+  margin-left: 0%;
+  font-size: 1.8rem;
+}
